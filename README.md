@@ -19,3 +19,7 @@ In Google Colab
 Upload the .ipynb file
 Upload diabetes.csv
 Click Run All
+
+## Author
+
+### Dhanu
