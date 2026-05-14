@@ -13,7 +13,7 @@ Matplotlib
 ## Dataset
 Pima Indians Diabetes Dataset
 File used: diabetes.csv
-
+   
 ## How to Run
 In Google Colab
 Upload the .ipynb file
