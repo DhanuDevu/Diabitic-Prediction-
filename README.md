@@ -7,7 +7,7 @@ This project predicts whether a person has diabetes or not using machine learnin
 Python
 Pandas
 NumPy
-Scikit-learn
+Scikit-learn                       
 Matplotlib   
 
 ## Dataset
