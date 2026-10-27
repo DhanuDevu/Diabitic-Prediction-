@@ -5,7 +5,7 @@ This project predicts whether a person has diabetes or not using machine learnin
 
 ## Technologies Used
 Python
-Pandas
+Pandas  
 NumPy
 Scikit-learn                       
 Matplotlib   
