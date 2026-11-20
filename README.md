@@ -10,7 +10,7 @@ NumPy
 Scikit-learn                         
 Matplotlib   
 
-## Dataset
+## Dataset  
 Pima Indians Diabetes Dataset
 File used: diabetes.csv
       
